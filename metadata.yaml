@@ -1,0 +1,27 @@
+_repo: Madge-Morton-s-Secret_20737
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20737-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chalmers, Amy D. V.
+    gutenberg_agent_id: '6573'
+    url: http://www.gutenberg.org/2009/agents/6573
+description: ''
+gutenberg_issued: '2007-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Houseboats -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+title: Madge Morton's Secret
+url: http://www.gutenberg.org/ebooks/20737
